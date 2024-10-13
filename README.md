@@ -1,2 +1,0 @@
-# solid-funicular
-Script roblox
