@@ -1,0 +1,11 @@
+Local library=
+LoadString(game:HttpsGet"(Https://https://github.com/Fazy2/solid-funicular.git                Local Window=Library:CreateLib("Name","midnight")
+Local Tab:Window:NewTab("TabName")
+Section:NewButton("ButtonText")
+"Button Info)
+local ButtonText:"NameButton"="Click Me")
+Local ClickButton: ("Humanoid Get:Walkspeed=200 )
+Funtion()
+     End
+ End
+
